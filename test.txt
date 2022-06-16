@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testR
+=======
+test2
+>>>>>>> parent of 5a6e635... test
