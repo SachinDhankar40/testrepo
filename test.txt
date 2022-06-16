@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 testR
 =======
 test2
 >>>>>>> parent of 5a6e635... test
-=======
-test@
->>>>>>> parent of 706da8c... test@
